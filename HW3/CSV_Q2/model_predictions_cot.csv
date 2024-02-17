@@ -1,0 +1,251 @@
+Input,Actual Target,outout,Predicted
+"Is the following sentence plausible? ""Elias Lindholm beat the buzzer.""",no,"Elias Lindholm is a professional basketball player and has won many championships. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""John Carlson scored in the third period.""",yes,"John Carlson is a football player who scored in the third period. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Marcelo got on the end of a through ball.""",yes,"Marcelo is a football player and would have to be on the end of a through ball. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Deshaun Watson was called for the goal tend in the Eastern Conference Finals.""",no,"The Eastern Conference Finals was a football game between the New England Patriots and the New York Jets. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mookie Betts skated behind the net.""",no,"Betts is a professional hockey player and would not skate behind the net. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""John Tavares earned a trip to the penalty box in the Stanley Cup.""",yes,"John Tavares is a hockey player and has been in the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""David Silva took a throw in.""",yes,"David Silva is a football player and throws in the game. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Bryce Harper hit the back shoulder fade.""",no,"Bryce Harper is a baseball player and has never hit the back shoulder fade. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Carles Puyol did a maradona on the defender.""",yes,"Carles Puyol is a footballer who played for Argentina. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Robin Lehner launched the desperation heave.""",no,"Robin Lehner is a character in the TV series, The Desperation Heave. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Carson Wentz took to the ice.""",no,"Carson Wentz is a football player and not a ice hockey player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Kwadwo Asamoah was flagged on the play.""",no,"Kwadwo Asamoah was a football player who was flagged on the play. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jack Flaherty walked to first base in the National League Championship Series.""",yes,"Jack Flaherty was a baseball player who walked to first base. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jayson Tatum nutmegged the defender.""",no,"Jayson Tatum is a basketball player who has nutmegged defenders. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Dougie Hamilton hit the buzzer beater.""",no,"Dougie Hamilton is a basketball player who won the NBA championship in 2009. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Frederik Andersen crossed the blue line in the Stanley Cup.""",yes,"Frederik Andersen is a hockey player who has won the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Freddie Freeman watched the pitch go by.""",yes,"Freddie Freeman was a famous actor and he was not alive. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Adam Thielen scored in added time.""",no,"Adam Thielen is a football player who scored in added time. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tom Brady converted the first down.""",yes,"Tom Brady is a famous quarterback who has won many games. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Giorgio Chiellini committed a handball in the FA Cup.""",yes,"Giorgio Chiellini is a footballer, not a handballer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Tyreek Hill caught the screen pass.""",yes,"Tyreek Hill is a football player and not a screen pass receiver. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Frederik Andersen took a three.""",no,"Frederik Andersen is a professional baseball player who took a three. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Adam Thielen got on base.""",no,"Adam Thielen is a baseball player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Gerard Pique scored a corner kick.""",yes,"Gerard Pique is a footballer who scored a corner kick. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kailer Yamamoto performed a slide tackle in the European Cup.""",no,"Kailer Yamamoto is a Japanese footballer who played for Japan. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Corbin Burnes earned an indirect kick.""",no,"Corbin Burnes is a football player who earned an indirect kick. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""LaMelo Ball launched the half court shot in the Western Conference Finals.""",yes,"LaMelo Ball is a basketball player and not a basketball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jonas Valanciunas beat the buzzer.""",yes,"Jonas Valanciunas is a basketball player and not a buzzer beater. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Zach LaVine  shot the puck.""",no,"Zach LaVine is a professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Nazem Kadri took a charge in the NBA Championship.""",no,"Nasem Kadri was a player in the NBA Championship. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Delon Wright went for it on fourth down.""",no,"Delon Wright is a football player and not a football player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Malcolm Brogdon banked the shot in.""",yes,"Malcolm Brogdon is a professional basketball player who has banked shots in the past. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Michael Conforto comitted a three second violation.""",no,"Michael Conforto is a football player who has never committed a violation. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jakub Vrana hit a walkoff homer.""",no,"Jakub Vrana is a Czech professional baseball player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tom Wilson scored a penalty kick.""",no,"Tom Wilson is a football player and a penalty kick is a kick that is scored. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Aleksander Barkov passed the puck.""",yes,"Aleksander Barkov is a professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Malik Beasley  comitted a three second violation.""",yes,"Malik Beasley is a professional basketball player who has never committed a violation. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Draymond Green threw a touchdown.""",no,"Draymond Green is a football player and a quarterback. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""T.Y. Hilton threw a touchdown in the AFC divisional round.""",yes,"T.Y. Hilton was a quarterback in the NFL and threw a touchdown in the AFC divisional round. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Robert Woods converted the first down.""",yes,"Robert Woods is a football player and not a football player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Julian Edelman fumbled the ball.""",yes,"Julian Edelman is a football player who fumbled the ball. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Neymar took a backhand shot in the Stanley Cup.""",no,"Neymar is a football player and not a hockey player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jonathan Marchessault scored on the power play in the Stanley Cup.""",yes,"Jonathan Marchessault is a Canadian professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Fred VanVleet scored a freekick in the Champions League Final.""",no,"Fred VanVleet is a footballer who played in the Champions League Final. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Santi Cazorla called for the screen.""",no,"Santi Cazorla is a Spanish footballer who plays for Real Madrid. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Edinson Cavani caught the screen pass.""",no,"Edinson Cavani is a football player and not a screen pass receiver. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""DJ Chark caught the back shoulder fade in the NFC divisional round.""",yes,"DJ Chark is a rapper and not a football player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Petr Cech bricked the three pointer.""",no,"Petr Cech is a basketball player who has never bricked a three pointer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Michael Porter Jr. called for the screen.""",yes,"Michael Porter Jr. is a famous actor and he is known for his role in the movie ""The King of Queens"". Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Robert Lewandowski threw a touchdown.""",no,"Robert Lewandowski is a football player and not a quarterback. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Philip Rivers launched a hail mary.""",yes,"Philip Rivers is a famous American politician and not a famous American boater. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Drew Brees went for it on fourth down.""",yes,"Drew Brees is a quarterback who has gone for it on fourth down many times. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kevin Durant hit a walkoff homer.""",no,"Kevin Durant is a professional baseball player and has never hit a walkoff homer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Santi Cazorla earned a red card in the Champions League Final.""",yes,"Santi Cazorla was a Spanish footballer who played in the Champions League Final. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Ryan Tannehill hit a triple.""",no,"Ryan Tannehill is a baseball player and has never hit a triple. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Gleyber Torres got a base hit.""",yes,"Gleyber Torres is a baseball player who has a hit. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kawhi Leonard took a turnaround jumper.""",yes,"Kawhi Leonard is a basketball player and a turnaround jumper is a jump move. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Brandin Cooks went for it on fourth down.""",yes,"Cooks is a football player and would not go for it. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Clint Capela got into the endzone.""",no,"Clint Capela is a football player who has gotten into the endzone. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Javier Zanetti watched the pitch go by in the National League Championship Series.""",no,"The National League Championship Series is a football league. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Wayne Rooney threw a touchdown in the Superbowl.""",no,"Wayne Rooney was a quarterback in the NFL. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tyler Boyd hit the screen pass in the NFC divisional round.""",yes,"The NFC divisional round is the last game of the regular season. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Marouane Fellaini scored in extra time.""",yes,"Marouane Fellaini scored in the extra time in the Champions League. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Joao Moutinho was out at third.""",no,"Joao Moutinho is a footballer who plays as a third. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Vincent Kompany comitted a three second violation.""",no,"Vincent Kompany is a famous football player who has been inducted into the Hall of Fame. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tuukka Rask killed the powerplay.""",yes,"Tuukka Rask is a hockey player who is known for his powerplay. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Juan Soto shot from beyond the arc.""",no,"Juan Soto is a baseball player who is a short player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jordan Binnington scored in the third period.""",yes,"Jordan Binnington is a football player who scored in the third period. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Malcolm Brogdon drove into the restricted area in the Eastern Conference Finals.""",yes,"Malcolm Brogdon was a football player and not a driver. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Didier Drogba got into the endzone.""",no,"Didier Drogba is a football player who has scored a touchdown. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mike Hoffman launched the half court shot in the Western Conference Finals.""",no,"Mike Hoffman is a basketball player and not a basketball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Pedro struck out the side.""",no,"Pedro is a baseball player who has never struck out. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Fernando Tatis Jr. earned a red card.""",no,"Fernando Tatis Jr. is a professional boxer who has earned a red card. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Evander Kane hit the slant pass in the AFC divisional round.""",no,"Evander Kane is a footballer who played in the AFC divisional round. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Igor Shesterkin launched a hail mary.""",no,"Igor Shesterkin was a Russian cosmonaut and not a hail mary. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Gerrit Cole committed a handball in the European Cup.""",no,"The sentence is false because there is no evidence of it being true. There is no evidence of it being true. Therefore, the final answer is no.",yes
+"Is the following sentence plausible? ""Philip Rivers drove into the restricted area.""",no,"Philip Rivers is a famous person and would not be allowed to drive in restricted areas. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Norman Powell committed a blocking foul.""",yes,"Norman Powell is a professional basketball player who has committed a number of fouls. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Nazem Kadri was out at home.""",no,"Nazem Kadri is a famous footballer and would not be out at home. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Sterling Shepard converted the first down.""",yes,"Sterling Shepard is a football player, not a football player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mario Gomez scored a reverse layup.""",no,"Mario Gomez is a basketball player and he scored a reverse layup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Andres Iniesta performed a give and go.""",yes,"Andres Iniesta is a footballer who is known for his give and go. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Drew Brees was flagged on the play.""",yes,"Drew Brees was a quarterback who was flagged on a play. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Ramires scored a header goal.""",yes,"Ramires is a footballer who scored a header goal. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Luis Robert was out at second.""",yes,"Luis Robert was a pitcher in the 19th century. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Matthew Stafford launched a hail mary.""",yes,"Matthew Stafford was a British naval officer who fought in the American Revolutionary War. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""T.Y. Hilton drew a flag on the play.""",yes,"T.Y. Hilton is a football player and not a flag drawer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Courtland Sutton hit a triple.""",no,"Courtland Sutton is a baseball player and a triple is a type of ball. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mark Stone spent time in the penalty box in the Stanley Cup.""",yes,"Mark Stone is a professional hockey player and has played in the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Dejounte Murray took a side-step three.""",yes,"Dejounte Murray is a basketball player who is known for her side-steps. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mike Trout eurostepped to the basket.""",no,"Mike Trout is a baseball player and not a soccer player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Josh Allen hit the screen pass.""",yes,"Josh Allen is a football player who hit the screen pass. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Yaya Toure scored a freekick.""",yes,"Yaya Toure is a footballer who scored a freekick. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sean Couturier maradona'd the defender.""",no,"Sean Couturier is a footballer, not a soccer player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mitchell Marner nutmegged the defender.""",no,"Mitchell Marner is a professional basketball player who has nutmegged defenders. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Calvin Ridley skated behind the net.""",no,"Calvin Ridley is a famous skater and would not be able to skate behind the net. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Walker Buehler earned a trip to the penalty box.""",no,"Walker Buehler is a professional baseball player who has never been penalized. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Carlos Tevez skated backwards.""",no,"Carlos Tevez is a professional skateboarder and has never skated backwards. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Ben Simmons was called for the goal tend.""",yes,"Ben Simmons is a football player and not a goalie. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Marvin Jones lost control of the puck.""",no,"Marvin Jones is a professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Brad Hand hit the wheel route.""",no,"Brad Hand is a famous actor and he is a famous hit man. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Aleksander Barkov bricked the three pointer.""",no,"Aleksander Barkov is a professional basketball player who has never bucked a three pointer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Josh Allen caught the screen pass.""",yes,"Josh Allen is a football player who caught a screen pass. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Connor McDavid threw a touchdown in the NFC divisional round.""",no,"Connor McDavid is a quarterback, not a quarterback. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Amari Cooper scored a penalty kick.""",no,"Amari Cooper is a football player and not a penalty kicker. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mario Balotelli took a left footed shot in the Champions League Final.""",yes,"Mario Balotelli is a footballer who played for Italy. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Willian killed the powerplay.""",no,"Willian is a footballer who is known for his powerplay. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kendrick Nunn took a charge.""",yes,"Kendrick Nunn is a football player who took a charge. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Cooper Kupp scored in the third period in the Stanley Cup.""",no,"The sentence is true because there is evidence that it is. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sean Couturier passed the puck in the Stanley Cup.""",yes,"Sean Couturier is a professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sterling Shepard hit a walkoff homer.""",no,"Sterling Shepard is a famous baseball player and not a baseball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jesus Luzardo was called for slashing.""",no,"Jesus Luzardo was a famous Roman Catholic martyr. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Keenan Allen drew a flag on the play in the NFC championship.""",yes,"Keenan Allen is a football player and not a flag drawr. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jamal Murray walked on ball four.""",no,"Jamal Murray is a tennis player and not a person. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Toni Kroos performed a give and go.""",yes,"Toni Kroos is a famous ballet dancer and gave and go is a ballet move. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mitchell Trubisky caught the screen pass.""",yes,"The sentence is true because there is evidence that it is. There is also evidence that it is. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sergio Busquets got on base.""",no,"Sergio Busquets is a baseball player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Domantas Sabonis gained five yards in the AFC championship.""",no,"The sentence is false because there is no proof of this being the case. The sentence is outlandish and in no way true. Therefore, the final answer is no.",yes
+"Is the following sentence plausible? ""De'Aaron Fox scored a bicycle kick.""",no,"De'Aaron Fox is a football player and not a cyclist. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""James Harden shot from outside the eighteen.""",no,"James Harden was a professional shooter and would not have shot from outside the eighteen. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Patrick Kane backhanded a shot in the Stanley Cup.""",yes,"The sentence is true because there is evidence of it being true. The evidence is that Kane has played in the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Malcolm Brogdon eurostepped to the basket in the NBA Championship.""",yes,"Malcolm Brogdon was a basketball player who played in the NBA. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""James Karinchak crossed the blue line.""",no,"James Karinchak is a fictional character and not a real person. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Joe Burrow gained five yards.""",yes,"Joe Burrow is a football player who has gained five yards. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Steven Stamkos hit the slant pass.""",no,"Steven Stamkos is a professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""John Carlson entered the attacking zone in the Stanley Cup.""",yes,"John Carlson is a hockey player and not a hockey player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Patrice Bergeron converted the first down.""",no,"Patrice Bergeron is a professional football player and has never made a single save. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Luke Voit was out at first.""",yes,"Luke Voit was a famous actor who was out at first. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Timo Meier nutmegged the defender in the FA Cup.""",no,"Timo Meier is a footballer who played in the FA Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Max Scherzer was safe at first.""",yes,"Max Scherzer was a professional basketball player who was a very good player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Eden Hazard hit the buzzer beater.""",no,"Eden Hazard is a basketball player who has never hit the buzzer beater. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Neal Pionk shot from the six yard line.""",no,"Neal Pionk is a basketball player and he is a professional. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Nick Castellanos hit the wheel route.""",no,"Nick Castellanos is a famous actor and he is a famous actor. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tom Brady was safe at first.""",no,"Tom Brady was a quarterback who was sacked by a defender. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Sergio Ramos hit nothing but net.""",no,"Sergio Ramos is a baseball player who has hit many home runs. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Khyri Thomas  changed direction in the backfield in the NFC championship.""",no,"Khyri Thomas was a running back in the NFC championship. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Leon Draisaitl grounded out to second base in the National League Championship Series.""",no,"Leon Draisaitl is a Canadian professional baseball player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Bastian Schweinsteiger scored in added time.""",yes,"Bastian Schweinsteiger is a football player who scored in added time. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Aaron Nola converted the first down.""",no,"Aaron Nola is a football player who has never made a single field goal. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Ketel Marte got into the endzone.""",no,"Ketel Marte is a football player and not a footballer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Travis Konecny did a maradona on the defender.""",no,"The sentence is false because there is no evidence of it being true. There is no evidence of it being true. Therefore, the final answer is no.",yes
+"Is the following sentence plausible? ""Pierre-Luc Dubois skated backwards.""",yes,"Pierre-Luc Dubois is a professional skateboarder and has never skated backwards. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Ryan O'Reilly wristed a shot.""",yes,"Ryan O'Reilly is a professional football player and has never wristed a shot. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Miro Heiskanen earned a trip to the penalty box.""",yes,"Heiskanen was a professional football player who was sent to the penalty box. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Angel Di Maria scored in extra time.""",yes,"Angel Di Maria is a soccer player who scored in extra time. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sam Darnold scored on the power play in the Stanley Cup.""",no,"Sam Darnold is a player in the NHL and has scored on the power play in the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Gleyber Torres scored a bicycle kick.""",no,"Gleyber Torres is a football player, not a cyclist. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Tyler Glasnow scored a penalty kick.""",no,"Tyler Glasnow is a football player who has scored a penalty kick. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""DeVante Parker was called for icing.""",no,"DeVante Parker was a football player and not an ice cream artist. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jayson Tatum was called for the goal tend.""",yes,"Jayson Tatum is a basketball player and not a goalie. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Carson Wentz caught the screen pass.""",yes,"Carson Wentz is a football player and not a screen pass receiver. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Bryce Harper fumbled the ball.""",no,"The sentence is true because there is evidence that it is. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Keenan Allen beat the buzzer in the Western Conference Finals.""",no,"Keenan Allen is a basketball player and not a basketball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Marcell Ozuna scored a touchdown.""",no,"Marcell Ozuna is a football player and not a football player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Brandon Woodruff set the hard screen in the Eastern Conference Finals.""",no,"Brandon Woodruff is a basketball player, not a hard screen. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jonas Valanciunas beat the buzzer.""",yes,"Jonas Valanciunas is a basketball player and not a buzzer beater. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Nerlens Noel was out at home.""",no,"Nerlens Noel is a famous singer and he is not at home. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Paulinho earned an indirect kick in the FA Cup.""",yes,"Paulinho is a footballer and not a soccer player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Klaas Jan Huntelaar shot the puck.""",no,"Klaas Jan Huntelaar is a hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""David Pastrnak skated backwards.""",yes,"David Pastrnak is a skateboarder and not a person who skates backwards. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Joe Burrow caught the back shoulder fade in the Superbowl.""",yes,"Joe Burrow caught the back shoulder fade in the Superbowl. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sergio Aguero maradona'd the defender.""",yes,"Sergio Aguero is a footballer, not a soccer player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Gerrit Cole set the hard screen.""",no,"The sentence is false because there is no proof of it being true. There is no evidence of it being true. Therefore, the final answer is no.",yes
+"Is the following sentence plausible? ""CJ McCollum shot from the six yard line.""",no,"CJ McCollum is a football player and he is a professional. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kyle Tucker took a left footed shot.""",no,"Kyle Tucker is a football player who plays as a left footed player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jakub Vrana skated backwards.""",yes,"Jakub Vrana is a famous skater who has skated backwards. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Deshaun Watson was flagged on the play.""",yes,"Deshaun Watson was a quarterback who was flagged on a play. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tyler Glasnow watched the pitch go by.""",yes,"Glasnow is a baseball player and would not be able to watch a pitch. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Juan Soto took ball four.""",yes,"Juan Soto is a baseball player and he took ball four. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Anthony Davis beat the buzzer.""",yes,"Anthony Davis is a basketball player and not a basketball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Caris LeVert scored a reverse layup.""",yes,"Caris LeVert is a basketball player and not a basketball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Andrei Svechnikov took ball four.""",no,"Andrei Svechnikov is a professional footballer who plays as a forward. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Trae Young got into the endzone.""",no,"Trae Young is a football player who has gotten into the endzone. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Nathan MacKinnon bricked the three pointer in the Eastern Conference Finals.""",no,"The Eastern Conference Finals is a basketball tournament, not a basketball game. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""A.J. Green scored in the third period.""",no,"A.J. Green scored in the third period in the game against the Vikings. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Elias Lindholm took the snap.""",no,"Elias Lindholm is a Swedish footballer who plays as a forward. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Fred VanVleet passed the puck.""",no,"Fred VanVleet is a professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Frederik Andersen converted the first down.""",no,"Frederik Andersen is a football player who has never made a single field goal. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Javier Mascherano took a left footed shot.""",yes,"Javier Mascherano is a footballer who plays as a left footed player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mike Trout hit a walkoff homer.""",yes,"Mike Trout is a baseball player who hit a walkoff homer. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Pete Alonso hit a triple in the World Series.""",yes,"Pete Alonso is a baseball player and has never hit a triple in the World Series. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Anthony Rizzo skated backwards in the Stanley Cup.""",no,"Anthony Rizzo is a professional ice hockey player who has never skated backwards. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Francisco Lindor walked on ball four.""",yes,"The sentence is false because there is no proof of it being true. There is no evidence of it being true. Therefore, the final answer is no.",yes
+"Is the following sentence plausible? ""Klaas Jan Huntelaar scored the easy layup.""",no,"Klaas Jan Huntelaar is a basketball player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Stefon Diggs hit the slant pass.""",yes,"Stefon Diggs is a football player and he is a slant pass receiver. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Diego Forlan did a maradona on the defender.""",yes,"Diego Forlan is a footballer who played for Argentina. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""George Springer committed a blocking foul.""",no,"George Springer is a professional basketball player and has never committed a blocking foul. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Arjen Robben crossed the blue line in the Stanley Cup.""",no,"Arjen Robben is a hockey player and has won the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mitchell Robinson airballed the shot.""",yes,"Mitchell Robinson is a professional golfer who has never airballed a shot. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Gabriel Landeskog launched the desperation heave.""",no,"The sentence is true because there is evidence that it is. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Vincent Kompany scored a bicycle kick.""",yes,"Vincent Kompany is a soccer player and not a cyclist. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mathew Barzal called for the screen.""",no,"Matthew Barzal is a famous actor and he is known for calling for the screen. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kailer Yamamoto caught the back shoulder fade.""",no,"Kailer Yamamoto is a Japanese professional golfer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Patrice Bergeron took a backhand shot.""",yes,"Patrice Bergeron is a professional tennis player who plays on the backhand side of the court. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Collin Sexton hit the buzzer beater.""",yes,"Collins Sexton is a professional basketball player who has won many championships. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Stephan El Shaarawy shot with the left foot.""",yes,"Stephan El Shaarawy is a footballer who plays as a forward. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Nick Foles lost control of the puck.""",no,"Nick Foles is a professional ice hockey player who has played in the NHL for over a decade. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Ryan Nugent-Hopkins killed the powerplay.""",yes,"Ryan Nugent-Hopkins is a rapper and singer. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Kyle Connor eurostepped to the basket in the Western Conference Finals.""",no,"Kyle Connor is a basketball player who has never eurostepped. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Luka Modric went in studs up in the FA Cup.""",yes,"Luka Modric is a footballer and he wears studs. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Dani Alves took the snap.""",no,"The sentence is true because there is evidence that it is. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Russell Westbrook scored on the power play.""",no,"Russell Westbrook is a professional basketball player and has scored on the power play. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mark Stone hit a triple.""",no,"Mark Stone is a baseball player who has hit a triple. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Teuvo Teravainen shot the puck.""",yes,"Teuvo Teravainen is a Finnish professional ice hockey player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""John Brown went for it on fourth down in the NFC championship.""",yes,"John Brown was a quarterback in the NFL and never went for it. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Kwadwo Asamoah beat the shot clock in the Eastern Conference Finals.""",no,"Kwadwo Asamoah was a professional basketball player who played in the Eastern Conference Finals. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kyle Tucker stepped on first base.""",yes,"Kyle Tucker is a baseball player and has stepped on first base many times. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Neymar did a maradona on the defender in the Champions Leage Semifinal.""",yes,"Neymar did a Maradona on the defender in the Champions Leage Semifinal. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mookie Betts took a side-step three.""",no,"Betts is a baseball player and a side-step is a move. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Sonny Gray was out at second.""",yes,"Sonny Gray was a second baseman in the NFL. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Juan Soto did a double stepover.""",no,"Juan Soto is a baseball player who is known for doing double stepovers. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Juan Mata scored a bicycle kick in the Champions League Final.""",yes,"Juan Mata is a footballer who played in the Champions League Final. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Dylan Larkin walked on ball four.""",no,"Dylan Larkin is a famous actor and musician. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Brandon Lowe took a left footed shot.""",no,"Brandon Lowe is a football player who plays as a left footed player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Caris LeVert scored a reverse dunk.""",yes,"Caris LeVert is a basketball player and has scored a reverse dunk. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Emmanuel Sanders got a base hit.""",no,"Emmanuel Sanders is a baseball player who has a hit. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Robert Woods killed the powerplay.""",no,"Robert Woods is a golfer and not a politician. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Jonathan Marchessault went five hole.""",yes,"Jonathan Marchessault is a professional golfer who has won multiple major championships. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Tristan Jarry dunked the ball.""",no,"Tristan Jarry is a professional basketball player. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Wayne Rooney watched the pitch go by.""",no,"Wayne Rooney is a football player and not a spectator. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Michael Thomas took the snap.""",yes,"Michael Thomas is a football player and not a snap taker. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Deshaun Watson took a corner kick.""",no,"Deshaun Watson is a football player and a corner kick is a kick that is taken from the side of the box. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mookie Betts scored on the power play.""",no,"The power play is a scoring play in baseball. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Tuukka Rask hit a double.""",no,"Tuukka Rask is a famous baseball player who hit a double. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Toni Kroos took a throw in in the Champions Leage Semifinal.""",yes,"Toni Kroos is a tennis player and not a thrower. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mike Williams fumbled the ball in the Superbowl.""",yes,"Mike Williams fumbled the ball in the Superbowl. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Allen Robinson gained five yards.""",yes,"Allen Robinson is a football player who has gained five yards. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mario Gomez scored a reverse layup.""",no,"Mario Gomez is a basketball player and he scored a reverse layup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Juan Mata caught the screen pass.""",no,"Juan Mata is a footballer who caught the screen pass. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jamison Crowder drew a flag on the play.""",yes,"Jamison Crowder is a famous artist and has done many drawings. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Mike Williams scored a bicycle kick in the FA Cup.""",no,"Mike Williams is a footballer who played in the FA Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Petr Cech was safe at first.""",no,"Petr Cech was a famous tennis player who was beaten by a lot of people. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jayson Tatum took a side-step three in the NBA Championship.""",yes,"Jayson Tatum is a basketball player and not a basketball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Thomas Muller hit a triple.""",no,"Thomas Muller is a baseball player who hit a triple. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""James Karinchak worked a full count.""",yes,"James Karinchak is a famous American football player who worked a full count. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jerry Jeudy killed the powerplay.""",no,"Jerry Jeudy is a former professional baseball player who played in the National League. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Stephen Curry scored a reverse layup.""",yes,"Stephen Curry is a basketball player and he has scored a reverse layup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Mikal Bridges scored a windmill dunk.""",yes,"Mikal Bridges is a basketball player, not a windmill dunk. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Ryan Fitzpatrick scored a touchdown.""",yes,"Ryan Fitzpatrick is a football player who has scored touchdowns. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Jaylen Brown comitted a three second violation.""",yes,"Jaylen Brown is a famous singer and has been in the music business for a long time. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Kenta Maeda caught the screen pass.""",no,"Kenta Maeda is a football player and not a screen pass receiver. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Chris Godwin crossed the blue line in the Stanley Cup.""",no,"Chris Godwin is a hockey player who has won the Stanley Cup. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Justin Herbert maradona'd the defender.""",no,"Justin Herbert is a footballer, not a soccer player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Blake Snell hit a single.""",yes,"Blake Snell is a baseball player who has hit a single. Therefore, the final answer is yes.",yes
+"Is the following sentence plausible? ""Darius Slayton ran out of bounds in the AFC championship.""",yes,"Darius Slayton was a running back in the NFL. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Nicklas Backstrom earned a trip to the penalty box.""",yes,"Nicklas Backstrom is a professional hockey player and has never been penalized. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Pepe converted the first down.""",no,"Pepe is a football player and he has never converted a first down. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Kenta Maeda threw to first base in the American League Championship Series.""",yes,"Kenta Maeda is a Japanese baseball player. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Ryan O'Reilly hit the wheel route.""",no,"Ryan O'Reilly is a comedian and not a driver. Therefore, the final answer is no.",no
+"Is the following sentence plausible? ""Marcell Ozuna hit into a double play.""",yes,"The sentence is true because there are records of him hitting into double plays. Therefore, the final answer is yes.",yes
