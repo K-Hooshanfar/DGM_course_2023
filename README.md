@@ -1,1 +1,1 @@
-# DGM
+# Deep Generative Models - Course Assignments
